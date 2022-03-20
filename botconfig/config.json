@@ -1,0 +1,26 @@
+{
+   "prefix": "prefix",
+   "ownerIDS": [
+      "yourID"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | ItzNexus",
+      "text2": "ItzNexus & Milrato Development",
+      "type": "PLAYING",
+      "url": "https://youtube.com/ItzNexus"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "us1.lavalink.creavite.co",
+            "port": 20080,
+            "password": "auto.creavite.co"
+         }
+      ]
+   },
+
+   "spotify": {
+      "clientID": "",
+      "clientSecret": ""
+   }
+}
